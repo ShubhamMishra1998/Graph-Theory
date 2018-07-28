@@ -55,5 +55,4 @@ int main()
 		v1[b].push_back(a);
 	}
 	findartpoints(v1, v);
-	cin >> v;
 }
